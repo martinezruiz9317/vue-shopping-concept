@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="314" height="65.334" viewBox="0 0 314 65.334">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="314" height="65.334" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_16" data-name="Group 16" transform="translate(0 0)">
+    <g id="Group_15" data-name="Group 15" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <text id="FOOTWARE" transform="translate(150 43.431)" fill="#5fd2d0" font-size="20" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0" letter-spacing="0.194em">F</tspan><tspan y="0" letter-spacing="0.199em">O</tspan><tspan y="0" letter-spacing="0.19em">O</tspan><tspan y="0" letter-spacing="0.183em">T</tspan><tspan y="0" fill="#cc081e" letter-spacing="0.161em">W</tspan><tspan y="0" fill="#cc081e" letter-spacing="0.199em">A</tspan><tspan y="0" fill="#cc081e" letter-spacing="0.2em">R</tspan><tspan y="0" fill="#cc081e">E</tspan></text>
+      <path id="Path_7" data-name="Path 7" d="M9.884,13.1c-3.416,9.054.252,20.957,8.585,26.007s8.584-4.041,10.352-4.041-.5,9.09,2.524,10.859,6.313-7.827,9.09-5.807-.757,8.078,2.02,9.089C44.84,50.074,64.121,22.49,74.966,14.5a3.168,3.168,0,0,0-.16-5.244C71.977,7.472,68.657,5.538,67.2,5.273c-2.778-.5-20.958,26.512-21.967,30.047s2.777-10.352.252-10.1S35.133,36.582,35.133,36.582,55.08.729,51.04.476,16.048-3.244,9.884,13.1" transform="translate(2.418 0)" fill="#5fd2d0"/>
+      <path id="Path_8" data-name="Path 8" d="M42.51,42.634S64.444,13.739,71.316,11.978c1.956-.5,23.129,6.818,29.686,9.073,8.192,2.82,7.142,13.262,9.162,14.271s1.046-10.934,2.814-10.934,9.431,6.089,8.079,19.189c-.524,5.086-7.9,15.265-17.674,14.139-3.771-.433,1.262-20.451-1.515-20.955s-4.163,20.693-6.679,20.5c-8.985-.7-11.752-13.426-17.306-13.931s-35.371-.692-35.371-.692" transform="translate(11.938 3.357)" fill="#cc081e"/>
+    </g>
+  </g>
+</svg>
